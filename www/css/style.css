@@ -1,0 +1,27 @@
+/* Empty. Add your own CSS if you like */
+.checkedTask{
+	text-decoration: line-through;
+	color: darkgrey;
+}
+.item-complex .item-content, .row, .col{
+	padding: 0px;
+}
+.item-checkbox{
+	border-width: 0px;
+}
+.c-button{
+	padding-left: 0px;
+}
+.nenhum-item{
+	font-size: 16px;
+	text-align: center;
+	margin: 16px;
+	color: rgb(120, 120, 120);
+}
+.lista-finalizada{
+	font-size: 17px;
+	text-align: center;
+	margin: 16px;
+	color: #444;
+	font-weight: bold;
+}
